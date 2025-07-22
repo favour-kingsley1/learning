@@ -1,2 +1,3 @@
 # learning
-Learing github and github desktop
+Learing github and github desktot
+geting closer to life web
